@@ -89,7 +89,7 @@ function sydney_setup() {
 	}	
 
 	//Set the compare icon for YTIH button
-	update_option( 'yith_woocompare_button_text', sydney_get_svg_icon( 'icon-compare', false ) );
+//	update_option( 'yith_woocompare_button_text', sydney_get_svg_icon( 'icon-compare', false ) );
 }
 endif; // sydney_setup
 add_action( 'after_setup_theme', 'sydney_setup' );
