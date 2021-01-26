@@ -49,6 +49,13 @@
 						</nav><!-- #site-navigation -->
 					</div>
 				</div>
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <nav class="main-category-menu" role="navigation" <?php sydney_do_schema( 'nav' ); ?>>
+                            <?php wp_nav_menu( array( 'theme_location' => 'primary-category-menu', 'fallback_cb' => 'sydney_menu_fallback' ) ); ?>
+                        </nav><!-- #site-navigation -->
+                    </div>
+                </div>
 			</div>
 		</div>
 	</header><!-- #masthead -->
