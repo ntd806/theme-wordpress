@@ -1,13 +1,18 @@
 
 #mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.wpmenucartli {
-    background-color: #d5ff00;
+    background-color: #d65050;
     padding: 0px 5px;
 }
+
 
 #mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.mega-menu-item > a.mega-menu-link,
 #mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.wpmenucartli > a.wpmenucart-contents {
     line-height: 60px;
     height: 60px;
+}
+
+#mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.wpmenucartli > a.wpmenucart-contents {
+    color: #ffffff;
 }
 
 .middle-header {
@@ -38,4 +43,18 @@
 #masthead {
     padding-top: 0px;
     padding-bottom: 0px;
+}
+
+
+.nav-top-header-container, .main-category-menu-container {
+    background-color: #222222;
+}
+
+.main-category-menu-container > .main-category-menu-container-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.nav-top-header-container ul li a {
+    color: #fff;
 }

@@ -32,7 +32,7 @@
 		<div class="header-wrap">
             <div class="top-header">
                 <div class="container">
-                    <div class="row">
+                    <div class="row nav-top-header-container">
                         <div class="col-12">
                             <ul class="nav-top-header">
                                 <li>
@@ -41,7 +41,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/hot-dai-tiec-tra-gop-0-dong-cuc-nhanh-don-gian-tai-noi-that-xinh">
+                                    <a href="#">
                                     <span>Hướng dẫn mua trả góp</span>
                                     </a>
                                 </li>
@@ -85,8 +85,8 @@
                         <!-- #site-navigation -->
 					</div>
 				</div>
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="row main-category-menu-container">
+                    <div class="col-md-12 col-sm-12 col-xs-12 main-category-menu-container-wrapper">
                         <nav class="main-category-menu" role="navigation" <?php sydney_do_schema( 'nav' ); ?>>
                             <?php wp_nav_menu( array( 'theme_location' => 'primary-category-menu', 'fallback_cb' => 'sydney_menu_fallback' ) ); ?>
                         </nav><!-- #site-navigation -->
