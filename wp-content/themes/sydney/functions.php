@@ -551,3 +551,6 @@ require get_template_directory() . '/theme-dashboard/class-theme-dashboard.php';
  * Theme dashboard settings.
  */
 require get_template_directory() . '/inc/theme-dashboard-settings.php';
+
+
+wp_enqueue_style('custom-style', get_stylesheet_directory_uri() . '/custom-style.css', ['sydney-style']);

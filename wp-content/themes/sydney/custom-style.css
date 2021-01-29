@@ -1,0 +1,41 @@
+
+#mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.wpmenucartli {
+    background-color: #d5ff00;
+    padding: 0px 5px;
+}
+
+#mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.mega-menu-item > a.mega-menu-link,
+#mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.wpmenucartli > a.wpmenucart-contents {
+    line-height: 60px;
+    height: 60px;
+}
+
+.middle-header {
+    padding: 20px 0px;
+}
+
+.top-header ul.nav-top-header {
+    list-style: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.top-header ul.nav-top-header li {
+    float: left;
+    margin: 4px 33px 0 0;
+}
+
+@media only screen and (max-width: 767px) {
+    .top-header ul.nav-top-header li {
+        float: none;
+    }
+
+    .top-header ul.nav-top-header li > a{
+        display: block;
+    }
+}
+
+#masthead {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
