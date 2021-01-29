@@ -15,7 +15,7 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
 <?php wp_head(); ?>
-    <link rel="stylesheet" href="<?php echo esc_url(get_stylesheet_directory_uri() . '/custom-style.css'); ?>">
+    <link rel="stylesheet" href="<?php echo esc_url(get_stylesheet_directory_uri() . '/custom-style.css?v=' . time()); ?>">
 </head>
 
 <body <?php body_class(); ?> <?php sydney_do_schema( 'html' ); ?>>
