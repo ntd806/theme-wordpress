@@ -77,13 +77,16 @@
 						<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>	        
 					<?php endif; ?>
 					</div>
-					<div class="col-md-8 col-sm-4 col-xs-12">
+<!--					<div class="col-md-8 col-sm-4 col-xs-12">-->
 <!--						<div class="btn-menu"><i class="sydney-svg-icon">--><?php //sydney_get_svg_icon( 'icon-menu', true ); ?><!--</i></div>-->
-						<nav id="mainnav" class="mainnav" role="navigation" <?php sydney_do_schema( 'nav' ); ?>>
-							<?php wp_nav_menu( array( 'theme_location' => 'primary', 'fallback_cb' => 'sydney_menu_fallback' ) ); ?>
-						</nav>
+<!--						<nav id="mainnav" class="mainnav" role="navigation" --><?php //sydney_do_schema( 'nav' ); ?><!-- >-->
+<!--							--><?php //wp_nav_menu( array( 'theme_location' => 'primary', 'fallback_cb' => 'sydney_menu_fallback' ) ); ?>
+<!--						</nav>-->
                         <!-- #site-navigation -->
-					</div>
+<!--					</div>-->
+                    <div class="col-md-8 col-sm-4 col-xs-12 pr-0">
+                        <?php dynamic_sidebar('search-product-widget') ?>
+                    </div>
 				</div>
                 <div class="row main-category-menu-container">
                     <div class="col-md-12 col-sm-12 col-xs-12 main-category-menu-container-wrapper">

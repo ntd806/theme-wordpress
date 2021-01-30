@@ -125,6 +125,17 @@ function sydney_widgets_init() {
 		) );
 	}
 
+	//Register location for product search widget
+    register_sidebar( array(
+        'name'          => __( 'Search Product ', 'sydney' ),
+        'id'            => 'search-product-widget',
+        'description'   => 'Location of Search Product Form',
+        'before_widget' => '',
+        'after_widget'  => '',
+        'before_title'  => '',
+        'after_title'   => '',
+    ) );
+
 	//Register the front page widgets
 	if ( defined( 'SITEORIGIN_PANELS_VERSION' ) ) {
 		register_widget( 'Sydney_List' );
