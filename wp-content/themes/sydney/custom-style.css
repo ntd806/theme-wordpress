@@ -58,3 +58,7 @@
 .nav-top-header-container ul li a {
     color: #fff;
 }
+
+.pr-0 {
+    padding-right: 0px!important;
+}
