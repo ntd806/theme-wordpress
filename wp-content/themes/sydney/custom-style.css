@@ -62,3 +62,11 @@
 .pr-0 {
     padding-right: 0px!important;
 }
+
+.single-product .entry-summary .compare {
+    width: auto;
+    height: auto;
+    background-color: #d65050;
+    border-radius: 3px;
+    padding: 8px 24px;
+}
