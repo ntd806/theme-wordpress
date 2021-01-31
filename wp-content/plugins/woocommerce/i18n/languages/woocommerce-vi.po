@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-01-25T15:00:34+00:00\n"
-"PO-Revision-Date: 2021-01-31 07:02+0000\n"
+"PO-Revision-Date: 2021-01-31 08:14+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: vi\n"
@@ -802,7 +802,7 @@ msgstr ""
 #: includes/wc-cart-functions.php:118
 msgid "%s has been added to your cart."
 msgid_plural "%s have been added to your cart."
-msgstr[0] ""
+msgstr[0] "%s đã được thêm vào giỏ hàng."
 msgstr[1] ""
 
 #. translators: %s: product name
@@ -829,7 +829,7 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/CartController.php:802
 msgid "%s is a required field"
 msgid_plural "%s are required fields"
-msgstr[0] ""
+msgstr[0] "Trường %s  được yêu cầu"
 msgstr[1] ""
 
 #. translators: %s: field name
@@ -837,7 +837,7 @@ msgstr[1] ""
 #: includes/class-wc-checkout.php:816 includes/class-wc-form-handler.php:132
 #: includes/class-wc-form-handler.php:278
 msgid "%s is a required field."
-msgstr ""
+msgstr "Trường %s  được yêu cầu."
 
 #. translators: %s product name
 #: includes/class-wc-ajax.php:923
@@ -4921,7 +4921,7 @@ msgstr ""
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:124
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:314
 msgid "Billing"
-msgstr ""
+msgstr "&nbsp;"
 
 #: templates/checkout/form-billing.php:24
 msgid "Billing &amp; Shipping"
@@ -6055,7 +6055,7 @@ msgstr "Tổng quan giỏ hàng"
 
 #: includes/class-wc-form-handler.php:704
 msgid "Cart updated."
-msgstr ""
+msgstr "Giỏ hàng đã được cập nhật."
 
 #: i18n/states.php:667
 msgid "Caserta"
@@ -39678,7 +39678,7 @@ msgstr ""
 #: includes/class-wc-frontend-scripts.php:558
 #: includes/wc-cart-functions.php:125 includes/wc-template-functions.php:2122
 msgid "View cart"
-msgstr ""
+msgstr "Xem giỏ hàng"
 
 #: includes/class-wc-post-types.php:454
 msgid "View coupon"
