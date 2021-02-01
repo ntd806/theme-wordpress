@@ -9,14 +9,25 @@
 #mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.wpmenucartli > a.wpmenucart-contents {
     line-height: 60px;
     height: 60px;
+    text-transform: uppercase;
+    padding: 0px 16px;
+    color: #007056;
+    font-size: 13px;
+    font-weight: bold;
 }
 
 #mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.wpmenucartli > a.wpmenucart-contents {
     color: #ffffff;
 }
 
+#mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.mega-menu-item.mega-current-menu-item > a.mega-menu-link {
+    font-weight: bold;
+    font-size: 15px;
+}
+
 .middle-header {
     padding: 20px 0px;
+    background-color: #fff;
 }
 
 .top-header ul.nav-top-header {
@@ -41,13 +52,19 @@
 }
 
 #masthead {
-    padding-top: 0px;
-    padding-bottom: 0px;
+    background-color: #fff;
 }
 
 
 .nav-top-header-container, .main-category-menu-container {
     background-color: #222222;
+}
+
+@media only screen and (max-width: 767px) {
+    .header-wrap .nav-top-header-container {
+        text-align: left;
+        font-size: 13px;
+    }
 }
 
 .main-category-menu-container > .main-category-menu-container-wrapper {
@@ -69,4 +86,33 @@
     background-color: #d65050;
     border-radius: 3px;
     padding: 8px 24px;
+}
+
+/*Custom Search field*/
+
+
+.product-search input[type="text"].product-search-field, .product-search input[type="text"].product-filter-field {
+    border-style: none;
+    border-bottom: 2px solid #007056d4;
+    border-radius: 12px;
+    outline: none;
+}
+
+.product-search input[type="text"].product-search-field::-webkit-input-placeholder,
+.product-search input[type="text"].product-filter-field::-webkit-input-placeholder { /* Edge */
+    color: #007056d4;
+}
+
+.product-search input[type="text"].product-search-field:-ms-input-placeholder,
+.product-search input[type="text"].product-filter-field:-ms-input-placeholder{ /* Internet Explorer 10-11 */
+    color: #007056d4;
+}
+
+.product-search input[type="text"].product-search-field::placeholder,
+.product-search input[type="text"].product-filter-field::placeholder {
+    color: #007056d4;
+}
+
+body {
+    font-family: 'Roboto';
 }

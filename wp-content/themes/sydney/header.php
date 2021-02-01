@@ -84,7 +84,7 @@
 <!--						</nav>-->
                         <!-- #site-navigation -->
 <!--					</div>-->
-                    <div class="col-md-8 col-sm-4 col-xs-12 pr-0">
+                    <div class="col-md-8 col-sm-4 col-xs-12">
                         <?php dynamic_sidebar('search-product-widget') ?>
                     </div>
 				</div>
