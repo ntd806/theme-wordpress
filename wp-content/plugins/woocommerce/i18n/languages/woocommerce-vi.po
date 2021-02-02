@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-01-25T15:00:34+00:00\n"
-"PO-Revision-Date: 2021-02-02 10:40+0000\n"
+"PO-Revision-Date: 2021-02-02 10:42+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: vi\n"
@@ -28908,7 +28908,7 @@ msgstr ""
 
 #: includes/class-wc-ajax.php:281 templates/cart/cart-empty.php:35
 msgid "Return to shop"
-msgstr ""
+msgstr "Quay về trang chủ"
 
 #: packages/woocommerce-admin/dist/components/index.js:2
 #: packages/woocommerce-blocks/build/vendors.js:6
