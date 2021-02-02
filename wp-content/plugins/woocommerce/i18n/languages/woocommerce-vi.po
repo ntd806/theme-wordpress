@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-01-25T15:00:34+00:00\n"
-"PO-Revision-Date: 2021-02-02 08:41+0000\n"
+"PO-Revision-Date: 2021-02-02 09:19+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: vi\n"
@@ -1086,7 +1086,7 @@ msgstr ""
 #: includes/class-wc-form-handler.php:626
 #: includes/class-wc-form-handler.php:630
 msgid "%s removed."
-msgstr ""
+msgstr "%s đã xoá."
 
 #: packages/woocommerce-admin/dist/chunks/dashboard-charts.js:1
 msgid "%s Report"
@@ -3706,7 +3706,7 @@ msgstr ""
 #: includes/admin/meta-boxes/views/html-order-items.php:277
 #: templates/cart/cart.php:143 templates/checkout/form-coupon.php:38
 msgid "Apply coupon"
-msgstr ""
+msgstr "Áp dụng"
 
 #: packages/woocommerce-blocks/assets/js/base/components/filter-submit-button/index.js:20
 #: packages/woocommerce-blocks/build/attribute-filter-frontend.js:14
@@ -3736,7 +3736,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Applying coupon…"
-msgstr ""
+msgstr "Đang áp dụng ... "
 
 #: templates/auth/form-grant-access.php:57
 #: packages/woocommerce-admin/dist/chunks/homescreen.js:1
@@ -5706,7 +5706,7 @@ msgstr ""
 
 #: templates/cart/shipping-calculator.php:24
 msgid "Calculate shipping"
-msgstr ""
+msgstr "Tính phí vẩn chuyển"
 
 #: includes/admin/settings/views/settings-tax.php:32
 msgid "Calculate tax based on"
@@ -6051,11 +6051,11 @@ msgstr ""
 #: packages/woocommerce-blocks/build/cart-frontend.js:14
 #: packages/woocommerce-blocks/build/cart.js:1
 msgid "Cart totals"
-msgstr ""
+msgstr "Tổng quan giỏ hàng"
 
 #: includes/class-wc-form-handler.php:704
 msgid "Cart updated."
-msgstr ""
+msgstr "Giỏ hàng đã cập nhật."
 
 #: i18n/states.php:667
 msgid "Caserta"
@@ -8112,7 +8112,7 @@ msgstr[1] ""
 #. translators: %s: coupon code
 #: includes/class-wc-coupon.php:965 includes/class-wc-discounts.php:587
 msgid "Coupon \"%s\" does not exist!"
-msgstr ""
+msgstr "Khuyến mãi  \"%s\" không tồn tại!"
 
 #. translators: Actual coupon code.
 #: includes/abstracts/abstract-wc-order.php:1054
@@ -8135,12 +8135,12 @@ msgstr ""
 #: packages/woocommerce-admin/src/API/Reports/Coupons/Controller.php:299
 #: packages/woocommerce-admin/dist/chunks/analytics-report-coupons.js:1
 msgid "Coupon Code"
-msgstr ""
+msgstr "Mã khuyến mãi"
 
 #: includes/admin/class-wc-admin-post-types.php:617 templates/cart/cart.php:143
 #: templates/checkout/form-coupon.php:34
 msgid "Coupon code"
-msgstr ""
+msgstr "Mã khuyến mãi"
 
 #: packages/woocommerce-admin/dist/chunks/8.js:1
 msgctxt "coupon code"
@@ -8261,11 +8261,11 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Routes/CartCouponsByCode.php:62
 #: packages/woocommerce-blocks/src/StoreApi/Routes/CartCouponsByCode.php:79
 msgid "Coupon does not exist in the cart."
-msgstr ""
+msgstr "Khuyến mãi không tồn tại trong giỏ hàng."
 
 #: includes/class-wc-coupon.php:1065
 msgid "Coupon does not exist!"
-msgstr ""
+msgstr "Khuyến mãi không tồn tại!"
 
 #: includes/admin/class-wc-admin-post-types.php:182
 msgid "Coupon draft updated."
@@ -25611,7 +25611,7 @@ msgstr ""
 
 #: includes/class-wc-coupon.php:1068
 msgid "Please enter a coupon code."
-msgstr ""
+msgstr "Vui lòng nhập mã khuyến mãi."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:86
 msgid ""
@@ -26035,7 +26035,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Postcode"
-msgstr ""
+msgstr "Mã bưu điện"
 
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/address-form/country-address-fields.js:94
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/address-form/country-address-fields.js:219
@@ -26045,7 +26045,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Postcode (optional)"
-msgstr ""
+msgstr "Mã bưu điện (không bắt buộc)"
 
 #: includes/admin/class-wc-admin-profile.php:70
 #: includes/admin/class-wc-admin-profile.php:130
@@ -26058,11 +26058,11 @@ msgstr ""
 #: includes/class-wc-countries.php:719
 #: templates/cart/shipping-calculator.php:82
 msgid "Postcode / ZIP"
-msgstr ""
+msgstr "Mã bưu điện / ZIP"
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-taxes-v1-controller.php:592
 msgid "Postcode / ZIP."
-msgstr ""
+msgstr "Mã bưu điện / ZIP."
 
 #: includes/admin/settings/views/html-settings-tax.php:34
 msgid ""
@@ -26257,7 +26257,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/price-filter-frontend.js:1
 #: packages/woocommerce-blocks/build/price-filter.js:1
 msgid "Price"
-msgstr ""
+msgstr "Giá"
 
 #: packages/woocommerce-blocks/assets/js/editor-components/product-orderby-control/index.js:36
 #: packages/woocommerce-blocks/build/handpicked-products.js:1
@@ -26413,16 +26413,16 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/9.js:1
 #: packages/woocommerce-admin/dist/chunks/task-list.js:1
 msgid "Proceed"
-msgstr ""
+msgstr "Tiến hành"
 
 #: packages/woocommerce-blocks/build/cart-frontend.js:14
 #: packages/woocommerce-blocks/build/cart.js:1
 msgid "Proceed to Checkout"
-msgstr ""
+msgstr "Tiến hành thanh toán"
 
 #: templates/cart/proceed-to-checkout-button.php:26
 msgid "Proceed to checkout"
-msgstr ""
+msgstr "Tiến hành thanh toán"
 
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/cart/edit.js:106
 #: packages/woocommerce-blocks/build/cart.js:1
@@ -26487,7 +26487,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/reviews-by-product.js:1
 #: packages/woocommerce-blocks/build/single-product.js:1
 msgid "Product"
-msgstr ""
+msgstr "Sản phẩm"
 
 #: packages/woocommerce-admin/dist/chunks/6.js:1
 #: packages/woocommerce-admin/dist/chunks/analytics-report-orders.js:1
@@ -27613,7 +27613,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/cart-frontend.js:14
 #: packages/woocommerce-blocks/build/cart.js:1
 msgid "Quantity"
-msgstr ""
+msgstr "Số lượng"
 
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:688
 msgctxt "Quantity in stock"
@@ -31020,15 +31020,15 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Shipping"
-msgstr ""
+msgstr "Vận chuyển"
 
 #: packages/woocommerce-admin/dist/chunks/analytics-report-revenue.js:1
 msgid "shipping"
-msgstr ""
+msgstr "vận chuyển"
 
 #: packages/woocommerce-admin/dist/wp-admin-scripts/print-shipping-label-banner.js:2
 msgid "Shipping "
-msgstr ""
+msgstr "Vận chuyển"
 
 #: includes/class-wc-privacy-exporters.php:257
 msgid "Shipping Address"
@@ -31151,7 +31151,7 @@ msgstr ""
 
 #: packages/woocommerce-admin/dist/chunks/task-list.js:1
 msgid "Shipping cost"
-msgstr ""
+msgstr "Phí vận chuyển"
 
 #: templates/cart/cart-shipping.php:62
 msgid "Shipping costs are calculated during checkout."
@@ -31339,20 +31339,21 @@ msgstr ""
 #: templates/cart/cart-shipping.php:54
 msgid "Shipping options will be updated during checkout."
 msgstr ""
+"Vận chuyển lựa chọn sẽ được cập nhật trong quá suốt quá trình thanh toán."
 
 #. translators: %d: shipping package number
 #: includes/wc-cart-functions.php:231
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CartShippingRateSchema.php:247
 msgctxt "shipping packages"
 msgid "Shipping"
-msgstr ""
+msgstr "Vận chuyển"
 
 #. translators: %d: shipping package number
 #: includes/wc-cart-functions.php:231
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CartShippingRateSchema.php:244
 msgctxt "shipping packages"
 msgid "Shipping %d"
-msgstr ""
+msgstr "Đang vận chuyển %d"
 
 #: includes/class-wc-privacy-erasers.php:63
 #: includes/class-wc-privacy-exporters.php:202
@@ -31412,12 +31413,12 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Shipping to %s"
-msgstr ""
+msgstr "Vận chuyển tới %s"
 
 #. Translators: $s shipping destination.
 #: templates/cart/cart-shipping.php:51
 msgid "Shipping to %s."
-msgstr ""
+msgstr "Vận chuyển tới %s."
 
 #: includes/legacy/api/v2/class-wc-api-orders.php:1029
 #: includes/legacy/api/v3/class-wc-api-orders.php:1074
@@ -31470,7 +31471,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Shipping:"
-msgstr ""
+msgstr "Vận chuyển:"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:1049
 msgid "ShipStation"
@@ -33627,7 +33628,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Subtotal"
-msgstr ""
+msgstr "Tạm tính"
 
 #: includes/abstracts/abstract-wc-order.php:2003
 #: includes/wc-template-functions.php:2143
@@ -33637,7 +33638,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Subtotal:"
-msgstr ""
+msgstr "Tạm tính:"
 
 #: includes/class-wc-countries.php:804
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/address-form/country-address-fields.js:86
@@ -37672,12 +37673,12 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout.js:1
 #: packages/woocommerce-blocks/build/wc-payment-method-stripe.js:1
 msgid "Total"
-msgstr ""
+msgstr "Tổng cộng"
 
 #: packages/woocommerce-admin/dist/components/index.js:2
 #: packages/woocommerce-blocks/build/vendors.js:6
 msgid "Total %d"
-msgstr ""
+msgstr "Tổng cộng %d"
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:711
 #: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:322
@@ -37759,7 +37760,7 @@ msgstr ""
 
 #: packages/woocommerce-admin/src/API/Reports/Revenue/Stats/Controller.php:197
 msgid "Total of shipping."
-msgstr ""
+msgstr "Tổng cổng phí vận chuyển."
 
 #: packages/woocommerce-admin/src/API/Reports/Revenue/Stats/Controller.php:205
 msgid "Total of taxes."
@@ -37812,7 +37813,7 @@ msgstr ""
 
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:214
 msgid "Total shipping"
-msgstr ""
+msgstr "Tổng cổng phí vận chuyển"
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1000
 #: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1033
@@ -37903,12 +37904,12 @@ msgstr ""
 #: includes/abstracts/abstract-wc-order.php:2094
 #: templates/checkout/order-receipt.php:33 templates/checkout/thankyou.php:64
 msgid "Total:"
-msgstr ""
+msgstr "Tổng cộng:"
 
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:246
 #: templates/checkout/form-pay.php:29
 msgid "Totals"
-msgstr ""
+msgstr "Tổng cộng"
 
 #: packages/woocommerce-admin/src/API/Reports/Coupons/Stats/Controller.php:202
 #: packages/woocommerce-admin/src/API/Reports/Customers/Stats/Controller.php:164
@@ -37924,7 +37925,7 @@ msgstr ""
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-report-sales-v1-controller.php:350
 msgid "Totals."
-msgstr ""
+msgstr "Tổng cộng."
 
 #: i18n/states.php:810
 msgid "Tottori"
@@ -37932,19 +37933,19 @@ msgstr ""
 
 #: includes/class-wc-countries.php:703
 msgid "Town / City"
-msgstr ""
+msgstr "Thị trấn / Thành phố"
 
 #: includes/class-wc-countries.php:1072
 msgid "Town / City / Post Office"
-msgstr ""
+msgstr "Thị trấn / Thành phố / Bưu điện"
 
 #: includes/class-wc-countries.php:986
 msgid "Town / District"
-msgstr ""
+msgstr "Thị trấn / Quận"
 
 #: includes/class-wc-countries.php:1325
 msgid "Town / Village"
-msgstr ""
+msgstr "Thị trấn / Tỉnh"
 
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/address-form/country-address-fields.js:240
 #: packages/woocommerce-blocks/build/cart-frontend.js:14
@@ -37952,7 +37953,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Town/District"
-msgstr ""
+msgstr "Thị trấn / Quận"
 
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/address-form/country-address-fields.js:241
 #: packages/woocommerce-blocks/build/cart-frontend.js:14
@@ -37960,7 +37961,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Town/District (optional)"
-msgstr ""
+msgstr "Thị trấn / Quận (không bắt buộc)"
 
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/address-form/country-address-fields.js:492
 #: packages/woocommerce-blocks/build/cart-frontend.js:14
@@ -37968,7 +37969,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Town/Village"
-msgstr ""
+msgstr "Thị trấn / Tỉnh"
 
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/address-form/country-address-fields.js:493
 #: packages/woocommerce-blocks/build/cart-frontend.js:14
@@ -37976,7 +37977,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Town/Village (optional)"
-msgstr ""
+msgstr "Thị trấn / Tỉnh (không bắt buộc)"
 
 #: i18n/states.php:795
 msgid "Toyama"
@@ -38392,11 +38393,11 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/homescreen.js:1
 #: packages/woocommerce-admin/dist/chunks/task-list.js:1
 msgid "Undo"
-msgstr ""
+msgstr "Hoàn tác"
 
 #: includes/class-wc-form-handler.php:627
 msgid "Undo?"
-msgstr ""
+msgstr "Hoàn tác?"
 
 #. translators: 1: error message 2: filename 3: line
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:118
@@ -38752,7 +38753,7 @@ msgstr ""
 
 #: templates/cart/cart.php:148
 msgid "Update cart"
-msgstr ""
+msgstr "Cập nhật"
 
 #: includes/class-wc-post-types.php:103
 msgid "Update category"
@@ -41999,22 +42000,22 @@ msgstr ""
 #: packages/woocommerce-blocks/build/cart.js:1
 msgid "Your cart (%d item)"
 msgid_plural "Your cart (%d items)"
-msgstr[0] ""
+msgstr[0] "Giỏ hàng của bạn (%d sản phẩm)"
 msgstr[1] ""
 
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/cart/empty-cart-edit/index.js:39
 #: packages/woocommerce-blocks/build/cart.js:1
 msgid "Your cart is currently empty!"
-msgstr ""
+msgstr "Giỏ hàng của bạn hiện tại đang rỗng!"
 
 #: includes/wc-template-functions.php:3561
 msgid "Your cart is currently empty."
-msgstr ""
+msgstr "Giỏ hàng của bạn hiện tại đang rỗng."
 
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/checkout/empty-cart/index.js:18
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
 msgid "Your cart is empty!"
-msgstr ""
+msgstr "Giỏ hàng của bạn rỗng!"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:270
 #: includes/admin/settings/class-wc-settings-shipping.php:303
