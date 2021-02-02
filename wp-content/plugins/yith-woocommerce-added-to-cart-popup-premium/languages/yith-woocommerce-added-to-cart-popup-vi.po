@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-01-31 08:00+0000\n"
+"PO-Revision-Date: 2021-02-02 08:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: Tiếng Việt\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -377,7 +377,7 @@ msgstr ""
 #: plugin-options/general-options.php:262
 #: plugin-options/general-options.php:282
 msgid "Suggested Products"
-msgstr ""
+msgstr "Sản phẩm gợi ý"
 
 #: plugin-options/general-options.php:269
 msgid "Show suggested products"
@@ -612,11 +612,11 @@ msgstr ""
 
 #: templates/yith-wacp-popup-cart-info.php:19
 msgid "Shipping Cost"
-msgstr ""
+msgstr "Phí ship"
 
 #: templates/yith-wacp-popup-cart-info.php:28
 msgid "Tax Amount"
-msgstr ""
+msgstr "Thuế"
 
 #: templates/yith-wacp-popup-cart-info.php:38
 msgid "Discount"
