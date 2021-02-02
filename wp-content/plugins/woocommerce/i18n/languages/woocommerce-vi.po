@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-01-25T15:00:34+00:00\n"
-"PO-Revision-Date: 2021-02-02 10:09+0000\n"
+"PO-Revision-Date: 2021-02-02 10:18+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: vi\n"
@@ -829,7 +829,7 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/CartController.php:802
 msgid "%s is a required field"
 msgid_plural "%s are required fields"
-msgstr[0] ""
+msgstr[0] "Trường %s được yêu cầu bắt buộc"
 msgstr[1] ""
 
 #. translators: %s: field name
@@ -837,7 +837,7 @@ msgstr[1] ""
 #: includes/class-wc-checkout.php:816 includes/class-wc-form-handler.php:132
 #: includes/class-wc-form-handler.php:278
 msgid "%s is a required field."
-msgstr ""
+msgstr "Trường %s được yêu cầu bắt buộc."
 
 #. translators: %s product name
 #: includes/class-wc-ajax.php:923
@@ -4986,7 +4986,7 @@ msgstr ""
 #: includes/class-wc-privacy-erasers.php:46
 #: includes/class-wc-privacy-exporters.php:185
 msgid "Billing First Name"
-msgstr ""
+msgstr "Họ"
 
 #: packages/woocommerce-admin/dist/chunks/profile-wizard.js:1
 msgid ""
@@ -4998,7 +4998,7 @@ msgstr ""
 #: includes/class-wc-privacy-erasers.php:47
 #: includes/class-wc-privacy-exporters.php:186
 msgid "Billing Last Name"
-msgstr ""
+msgstr "Tên"
 
 #: includes/class-wc-privacy-erasers.php:52
 #: includes/class-wc-privacy-exporters.php:191
@@ -14855,7 +14855,7 @@ msgstr ""
 #: includes/customizer/class-wc-shop-customizer.php:734
 #: includes/wc-template-functions.php:827
 msgid "I have read and agree to the website %s"
-msgstr ""
+msgstr "Tôi đã đọc và chấp nhận %s của website."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:574
 msgid "I plan to sell both physical and digital products"
@@ -25778,6 +25778,8 @@ msgstr ""
 msgid ""
 "Please read and accept the terms and conditions to proceed with your order."
 msgstr ""
+"Vui lòng đọc và chấp nhận điều khoản và điều kiên để xử lý với đơn hàng của "
+"bạn"
 
 #: includes/class-wc-privacy.php:115
 msgid ""

@@ -562,3 +562,11 @@ require get_template_directory() . '/theme-dashboard/class-theme-dashboard.php';
  * Theme dashboard settings.
  */
 require get_template_directory() . '/inc/theme-dashboard-settings.php';
+
+function customize_wc_errors( $error ) {
+    if ( strpos( $error, 'Billing ' ) !== false ) {
+        $error = str_replace("Billing ", "", $error);
+    }
+    return $error;
+}
+add_filter( 'woocommerce_add_error', 'customize_wc_errors' );
