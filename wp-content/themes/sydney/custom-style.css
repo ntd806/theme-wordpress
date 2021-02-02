@@ -16,6 +16,11 @@
     font-weight: bold;
 }
 
+#yith-wacp-popup .yith-wacp-content a.button {
+    background-color: #007056;
+    color: #ffffff;
+}
+
 #mega-menu-wrap-primary-category-menu #mega-menu-primary-category-menu > li.wpmenucartli > a.wpmenucart-contents {
     color: #ffffff;
 }
@@ -116,3 +121,4 @@
 body {
     font-family: 'Roboto';
 }
+
