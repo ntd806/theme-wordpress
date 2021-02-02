@@ -122,3 +122,9 @@ body {
     font-family: 'Roboto';
 }
 
+.woocommerce-form__label-for-checkbox span {
+    padding-left: 0px;
+}
+.woocommerce-form__label-for-checkbox input[type=checkbox] {
+    position: unset;
+}
