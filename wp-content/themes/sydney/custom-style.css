@@ -128,3 +128,7 @@ body {
 .woocommerce-form__label-for-checkbox input[type=checkbox] {
     position: unset;
 }
+/*Active pagination*/
+.woocommerce nav.woocommerce-pagination ul li .page-numbers.current, .woocommerce nav.woocommerce-pagination ul li .page-numbers:hover, .nav-links .page-numbers:not(.dots):hover, .nav-links .page-numbers.current  {
+    background-color: #007056;
+}
