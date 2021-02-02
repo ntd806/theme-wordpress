@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-01-25T15:00:34+00:00\n"
-"PO-Revision-Date: 2021-02-02 10:18+0000\n"
+"PO-Revision-Date: 2021-02-02 10:35+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: vi\n"
@@ -28302,7 +28302,7 @@ msgstr "Sản phẩm liên quan"
 
 #: includes/wc-template-functions.php:1414
 msgid "Relevance"
-msgstr ""
+msgstr "Liên quan"
 
 #: i18n/states.php:357
 msgid "Relizane"
@@ -30076,12 +30076,12 @@ msgstr ""
 #. translators: %s: search query
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:567
 msgid "Search results for \"%s\""
-msgstr ""
+msgstr "Kết quả tìm kiếm cho &ldquo;%s&rdquo;"
 
 #. translators: %s: search term
 #: includes/class-wc-breadcrumb.php:367
 msgid "Search results for &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Kết quả tìm kiếm cho &ldquo;%s&rdquo;"
 
 #: includes/wc-product-functions.php:812
 msgid "Search results only"
@@ -30095,7 +30095,7 @@ msgstr ""
 #. translators: %s: search query
 #: includes/wc-template-functions.php:1076
 msgid "Search results: &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Kết quả tìm kiếm: &ldquo;%s&rdquo;"
 
 #: packages/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
 msgid "Search Scheduled Actions"
@@ -32806,11 +32806,11 @@ msgstr ""
 
 #: includes/wc-template-functions.php:1401
 msgid "Sort by average rating"
-msgstr ""
+msgstr "Đánh giá trung bình"
 
 #: includes/wc-template-functions.php:1402
 msgid "Sort by latest"
-msgstr ""
+msgstr "Mới nhất"
 
 #: includes/customizer/class-wc-shop-customizer.php:279
 #: includes/customizer/class-wc-shop-customizer.php:449
@@ -32819,25 +32819,25 @@ msgstr ""
 
 #: includes/wc-template-functions.php:1400
 msgid "Sort by popularity"
-msgstr ""
+msgstr "Phổ biến"
 
 #: includes/customizer/class-wc-shop-customizer.php:280
 #: includes/customizer/class-wc-shop-customizer.php:450
 msgid "Sort by price (asc)"
-msgstr ""
+msgstr "Giá (tăng dần)"
 
 #: includes/customizer/class-wc-shop-customizer.php:281
 #: includes/customizer/class-wc-shop-customizer.php:451
 msgid "Sort by price (desc)"
-msgstr ""
+msgstr "Giá (giảm dần)"
 
 #: includes/wc-template-functions.php:1404
 msgid "Sort by price: high to low"
-msgstr ""
+msgstr "Giá: cao  - thấp"
 
 #: includes/wc-template-functions.php:1403
 msgid "Sort by price: low to high"
-msgstr ""
+msgstr "Giá: thấp - cao"
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-taxes-v1-controller.php:700
 msgid "Sort by tax class."
