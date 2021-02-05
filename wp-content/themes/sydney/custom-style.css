@@ -132,3 +132,12 @@ body {
 .woocommerce nav.woocommerce-pagination ul li .page-numbers.current, .woocommerce nav.woocommerce-pagination ul li .page-numbers:hover, .nav-links .page-numbers:not(.dots):hover, .nav-links .page-numbers.current  {
     background-color: #007056;
 }
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+

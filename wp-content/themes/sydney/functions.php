@@ -207,7 +207,7 @@ function sydney_scripts() {
 	wp_enqueue_style( 'sydney-ie9', get_template_directory_uri() . '/css/ie9.css', array( 'sydney-style' ) );
 	wp_style_add_data( 'sydney-ie9', 'conditional', 'lte IE 9' );
 
-	wp_enqueue_script( 'sydney-functions', get_template_directory_uri() . '/js/functions.min.js', array(), '20210120', true );
+	wp_enqueue_script( 'sydney-functions', get_template_directory_uri() . '/js/functions.js', array(), '20210120', true );
 
 	if ( class_exists( 'Elementor\Plugin' ) ) {
 		wp_enqueue_script( 'sydney-scripts', get_template_directory_uri() . '/js/scripts.js', array('jquery'),'', true );		
