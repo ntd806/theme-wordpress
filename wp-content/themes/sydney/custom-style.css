@@ -137,8 +137,13 @@ body {
 .sticky {
     position: fixed;
     top: 0;
-    width: 100%;
     z-index: 9999;
+}
+
+@media only screen and (max-width: 767px) {
+    .sticky {
+        width: 100%;
+    }
 }
 
 
