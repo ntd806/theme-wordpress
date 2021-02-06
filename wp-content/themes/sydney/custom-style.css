@@ -141,3 +141,19 @@ body {
     z-index: 9999;
 }
 
+
+
+/*FLoat Button*/
+.fab {
+    right: unset;
+    left: 30px;
+}
+.fab::before {
+    right: unset;
+    left: 60px;
+}
+
+.hotline-phone-ring-wrap {
+    right: unset;
+    left: 70px;
+}
